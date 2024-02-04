@@ -8,7 +8,7 @@ This is a simple and agnostic specification pattern implementation.
 Installation
 ------------
 ```bash
-composer require davfer/sphp-specification
+composer require davfer/php-specification
 ```
 
 Usage
@@ -40,4 +40,6 @@ like in the example above could be: `JohnOrJaneButNotFirstUserSpecification.php`
 
 Plugins
 -------
-- [sphp-specification-doctrine](https://github.com/davfer/sphp-specification-doctrine): Doctrine ORM Specification implementation.
+
+- [php-specification-doctrine](https://github.com/davfer/sphp-specification-doctrine): Doctrine ORM Specification
+  implementation.
