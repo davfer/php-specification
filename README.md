@@ -1,4 +1,4 @@
-SPHP Specification
+PHP Specification
 =================
 
 Introduction
